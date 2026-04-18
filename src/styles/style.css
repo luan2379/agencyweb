@@ -39,4 +39,7 @@ text-decoration: none;/*tirar a decoraçao do texto*/
 background-color: var(--color-blue);/*cor da fonte*/
 color:var(--color-white);/*cor de texto*/
 border-radius: 10px; /*arrendodamento das bordas*/
+padding: 10px 20px;
+font-weight: var(--font-size-button
+);
 }
